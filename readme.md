@@ -3,7 +3,7 @@
 ## Mac Dev Tools
 
 * Command Line Tools: `$ xcode-select --install`
-* <a href="https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z">iTerm 2, Oh My ZSH, and Z</a>
+* <a href="https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z" target="_blank">iTerm 2, Oh My ZSH, and Z</a>
 * <a href="https://github.com/mbadolato/iTerm2-Color-Schemes" target="_blank">iTerm Color Schemes</a>
 * <a href="http://brew.sh" target="_blank">Homebrew</a>
 * <a href="http://brewformulas.org/Tree" target="_blank">Tree Formula</a>
@@ -29,7 +29,7 @@
 
 * <a href="https://itunes.apple.com/us/app/1password-password-manager/id443987910" target="_blank">1Password</a>
 * <a href="https://www.dropbox.com/install" target="_blank">Dropbox</a>
-* <a href="https://justgetflux.com">f.lux</a>
+* <a href="https://justgetflux.com" target="_blank">f.lux</a>
 * <a href="https://support.google.com/chrome/answer/95346" target="_blank">Google Chrome</a>
 * <a href="http://www.irradiatedsoftware.com/sizeup" target="_blank">SizeUp</a>
 * <a href="https://itunes.apple.com/us/app/slack/id803453959" target="_blank">Slack</a>

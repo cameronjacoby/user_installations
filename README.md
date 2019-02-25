@@ -10,12 +10,20 @@
 
 ## Mac Dev Tools
 
+- Homebrew
+  - git
+  - git-lfs
 - iTerm
   - [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+- [NVM](https://github.com/creationix/nvm)
+- [Postgres.app](https://postgresapp.com/downloads.html)
+- [RVM](https://rvm.io)
 - Sourcetree
 - Sublime Text
   - Package Control
   - Material Theme
+- Xcode
+  - Install command line tools: `$ gcc`
 
 ## Resources
 

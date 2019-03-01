@@ -20,8 +20,9 @@
 - [RVM](https://rvm.io)
 - Sourcetree
 - Sublime Text
-  - Package Control
+- Sublime Text - Package Control
   - Material Theme
+  - Syntax Highlighting for Sass
 - Xcode
   - Install command line tools: `$ gcc`
 

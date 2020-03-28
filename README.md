@@ -17,6 +17,7 @@
 - Sourcetree
 - Sublime Text
 - Sublime Text - Package Control
+  - Emmet
   - Materialize
 
 ## Resources

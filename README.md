@@ -14,6 +14,7 @@
   - git-lfs
 - iTerm
   - [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+- [RVM](https://rvm.io/rvm/install)
 - Sourcetree
 - Sublime Text
 - Sublime Text - Package Control
